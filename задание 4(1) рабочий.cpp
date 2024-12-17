@@ -1,8 +1,8 @@
 ﻿#include <iostream>
-#include <fstream>
 
 const unsigned size = 100;
 const unsigned N = 100;
+const unsigned E = 100;
 std::string inputFile = "input.txt";
 std::string outputFile = "outputtttttttttt.txt";
 std::vector<int> arr;
