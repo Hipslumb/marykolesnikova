@@ -1,9 +1,8 @@
 ﻿#include <iostream>
 #include <fstream>
-#include <vector>
-#include <Windows.h>
-#include <cmath>
+
 const unsigned size = 100;
+const unsigned N = 100;
 std::string inputFile = "input.txt";
 std::string outputFile = "outputtttttttttt.txt";
 std::vector<int> arr;
