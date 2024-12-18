@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include <fstream>
+#include <vector>
 
 const unsigned size = 100;
 const unsigned N = 100;
