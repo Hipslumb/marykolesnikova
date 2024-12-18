@@ -1,10 +1,13 @@
 ﻿#include <iostream>
+#include <fstream>
 
 const unsigned size = 100;
 const unsigned N = 100;
 const unsigned E = 100;
 std::string inputFile = "input.txt";
 std::string outputFile = "outputtttttttttt.txt";
+
+const unsigned size = 100;
 std::vector<int> arr;
 void readArrayFromFile(const std::string & filename, std::vector<int>&arr) /*открывает файл, считывает размер массива и его элементы.*/
 {
